@@ -1,0 +1,1 @@
+<?php /**PATH C:\Laravel\www\ecommerce\resources\views/layouts/navigation.blade.php ENDPATH**/ ?>
